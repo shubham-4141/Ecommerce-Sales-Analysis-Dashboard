@@ -16,3 +16,9 @@ The Madhav e-commerce wants to create an annual sales report based on four quate
 - Which Channel is contributing maximum to the sales?
 - Highest selling category?
 - Dashboard Interaction <a href="https://github.com/shubham-4141/Ecommerce-Sales-Analysis-Dashboard/blob/main/Dashbord_image.png">View Dashboard</a>
+
+## Process
+- Import the data into Power BI using the Get Data feature.
+- Use Power Query to clean and transform the data. This can include removing duplicates, handling null values, merging tables, or creating new calculated columns.
+- Made sure data is consistent and clean with respect to data type, data format and values used.
+- Create relationships between different tables to establish how they connect. Set up primary and foreign keys for proper data modeling.
