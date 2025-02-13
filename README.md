@@ -11,9 +11,8 @@ The Madhav e-commerce wants to create an annual sales report based on four quate
 - Compare the profit and month using single chart.
 - Which month got the highest sales and orders?
 - Who purchased more?
-- What are different order status in 2022?
 - List top 05 states contributing to the sales?
 - Relation between quantity and pyement mode.
 - Which Channel is contributing maximum to the sales?
 - Highest selling category?
-- Dashboard Interaction
+- Dashboard Interaction <a href="https://github.com/shubham-4141/Ecommerce-Sales-Analysis-Dashboard/blob/main/Dashbord_image.png">View Dashboard</a>
