@@ -26,4 +26,14 @@ The Madhav e-commerce wants to create an annual sales report based on four quate
   ## Dashboard
   ![Dashbord_image](https://github.com/user-attachments/assets/80abcad3-a9ad-4c2c-b1d5-26bc0b566e10)
 
+  ## Project Insight
+  - Maharashtra, Madhya Pradesh, and Utter Pradesh are the top performing states.
+  - Clothing dominates sales (63%), followed by Electronic (21%) and Furniture (17%).
+  - Harivansh, Madhav, Madan Mohan, are buy the most product.
+  - Cash on Delivery (COD) is the most popular method (44%), followed by UPI (21%), Debit Card (13%), EMI (12%), and Credit Card (10%).
+  - January and November generate the highest profit.
+ 
+  ## Final Conclusion
   
+
+
